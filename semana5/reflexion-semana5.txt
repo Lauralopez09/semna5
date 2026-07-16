@@ -1,0 +1,19 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan
+ información, reportes o alertas de manera organizada?
+
+Las APIs pueden ser el puente tecnológico ideal para que
+ las comunidades se organicen y compartan información en 
+ tiempo real. Al conectar diferentes plataformas, una API 
+ permite centralizar reportes de seguridad, fallos en servicios
+ públicos o alertas comunitarias creadas por los vecinos
+ en una sola base de datos accesible. Esto hace posible
+ que, cuando alguien registre un incidente desde una 
+ aplicación móvil, la información se distribuya de forma
+ automática e inmediata a un mapa vecinal, canales de
+ mensajería como Telegram o sistemas de emergencia locales.
+ Al estandarizar la manera en que se envían y reciben estos
+ datos, se evita el caos de los chats informales, facilitando
+ que la información se clasifique por categorías, niveles
+ de urgencia y ubicación exacta. Así, las APIs transforman 
+ la participación ciudadana en un canal coordinado, transparent
+ e y eficiente para la toma de decisiones colectivas.

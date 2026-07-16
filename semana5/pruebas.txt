@@ -1,0 +1,8 @@
+http://localhost:3000
+1 Me indica que es funcional.
+
+http://localhost:3000/saludo
+2 Es funcional y me saluda con el mensaje Hola comunidad.
+
+http://localhost:3000/mensaje/juan
+Hola juan
